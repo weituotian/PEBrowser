@@ -1,0 +1,7 @@
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\bin\Debug\PEBrowser.dll
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\bin\Debug\PEBrowser.pdb
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\bin\Debug\PEPlugin.dll
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\bin\Debug\PEPlugin.xml
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\obj\Debug\PEBrowser.csprojResolveAssemblyReference.cache
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\obj\Debug\PEBrowser.dll
+E:\vc++6.0 project\pmxeditor\PEBrowser\PEBrowser\obj\Debug\PEBrowser.pdb
